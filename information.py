@@ -56,7 +56,7 @@ class information():
 	def result_to_html(self):		
 		self.result = '''
 			<!DOCTYPE html><html><head><meta charset="gbk"><title>The Scan Result</title><meta name="description" content="Get_Info's result."><link rel="stylesheet" type="text/css" href="css/awrrays.css" /></head><body>
-			<div id='header'><h1 align="center">The Result of Scan {0}}</h1></div>
+			<div id='header'><h1 align="center">The Result of Scan {0}</h1></div>
 			<div id='Basic'><h2>Basic Information</h2><hr size="1px"><table><tr><td>Target</td><td>IP</td><td>OpenPort</td></tr>{1}</table></div>
 			<div id='Basic'><h2>Subdomain Display</h2><hr size="1px"><table><tr><td>domain</td></tr>{2}</table></div>
 			<div id='Basic'><h2>SideHost Display</h2><hr size="1px"><table><tr><td>domain</td><td>title</td></tr>{3}</table></div></body></html>
