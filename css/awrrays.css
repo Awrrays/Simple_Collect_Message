@@ -1,0 +1,36 @@
+*{margin: 0 ; padding: 0 ; font-family: Consolas ; color: #00cc00 ;}
+body{background: #222}
+h1{
+	color: #cfcfcf ;
+	margin-bottom: 20px ;
+}
+h2{
+	text-align: center ;
+}
+hr{
+	width: 30% ;
+	margin: auto;
+}
+p{
+	font-size: 18px ;
+	text-indent: 2em ;
+}
+table{
+	width: 30% ;
+	margin: auto ;
+}
+td{
+	width: 200px;
+	text-align: center ;
+	word-wrap: break-word;
+	word-break: break-all;
+}
+#header{
+	padding: 5px ;
+}
+#Basic{
+	width: 99% ;
+	margin: auto ;
+	margin-bottom: 20px ;
+	/*background: red ;*/
+	}
