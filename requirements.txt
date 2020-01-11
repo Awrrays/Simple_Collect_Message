@@ -1,8 +1,3 @@
 requests
-getopt
-sys
 colorama
-random
 python-nmap
-json
-re
